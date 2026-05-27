@@ -11,7 +11,7 @@ I'm a passionate and self-driven developer who loves building modern web applica
 - **Frontend:** React.js, Next.js, Tailwind CSS, Redux, HTML, CSS, JavaScript  
 - **Backend:** Node.js, Express.js, MongoDB, REST APIs  
 - **Authentication:** JWT, NextAuth, Clerk  
-- **CMS & Other Tools:** WordPress, Elementor, WooCommerce  
+- **CMS & Other Tools:** WordPress, Elementor, WooCommerce, Shopify  
 - **Other Skills:** Git, GitHub, Stripe Integration, Cloudinary, SEO Optimization
 
 ---
@@ -30,15 +30,6 @@ I'm a passionate and self-driven developer who loves building modern web applica
 - **💼 JobPortal** – A student-recruiter platform with real-time job applications  
 - **🌐 LinkedIn Clone** – Social platform with posts, likes, and comments using Next.js  
 - **📸 Instagram Clone** – Real-time chat, stories, and notifications using MERN & Socket.io
-
----
-
-## 📈 Goals for 2025
-
-- 🌟 Contribute to open-source MERN projects  
-- 🎥 Grow my YouTube channel by teaching React, MERN, WordPress & SEO  
-- 🔍 Master advanced DSA and system design  
-- 🚀 Build SaaS apps and digital tools for businesses
 
 ---
 
